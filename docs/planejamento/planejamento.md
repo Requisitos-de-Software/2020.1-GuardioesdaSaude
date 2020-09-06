@@ -22,6 +22,7 @@ Segue abaixo a tabela com os pontos de controle do projeto e principais técnica
 |                             |                    |                              |                        | Léxicos         |                    
 |                             |                    |                              |                        | Brainstorming   |                    
 |                             |                    |                              |                        |                 |
+
 **As técnicas serão atualizadas conforme o progresso da disciplina.*
 
 ## Versionamento
