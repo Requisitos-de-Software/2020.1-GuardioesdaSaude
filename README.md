@@ -21,7 +21,7 @@
     <th>GitHub</th>
     <th>Email</th>
   </thead>
-  <tbody align="center">
+  <tbody>
     <tr> 
       <td>Kalebe Lopes da Cunha</td>
       <td>160010900</td>
@@ -55,13 +55,24 @@
   </tbody>  
 </table> 
 
+<br>
+<br>
 
-<div>
-  <img src="/docs/assets/5.jpeg" alt="Kalebe" width="150" hspace="0">
-  <img src="/docs/assets/3.jpg" alt="Lucas" width="150" hspace="0">
-  <img src="/docs/assets/1.jpg" alt="Murilo" width="150" hspace="0">
-  <img src="/docs/assets/4.jpeg" alt="Thiago" width="150" hspace="0">
-  <img src="/docs/assets/2.jpg" alt="Wagner" width="150" hspace="0">
-</div> 
+<table>
+  <tbody>
+    <tr> 
+      <td>
+        <img src="/docs/assets/5.jpeg" alt="Kalebe" width="180" height="180"  hspace="2"> 
+        <img src="/docs/assets/3.jpg" alt="Kalebe" width="180" height="180"  hspace="2">
+        <img src="/docs/assets/1.jpg" alt="Murilo" width="180" height="180" hspace="2">
+        <img src="/docs/assets/4.jpeg" alt="Thiago" width="180" height="180" hspace="2">
+        <img src="/docs/assets/2.jpg" alt="Wagner" width="180" height="180" hspace="2">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 ---
