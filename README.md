@@ -57,11 +57,11 @@
 
 
 <div>
-  <img src="/docs/assets/5.jpeg" alt="Kalebe" width="100" hspace="0">
-  <img src="/docs/assets/3.png" alt="Lucas" width="100" hspace="0">
-  <img src="/docs/assets/1.png" alt="Murilo" width="100" hspace="0">
-  <img src="/docs/assets/4.png" alt="Thiago" width="100" hspace="0">
-  <img src="/docs/assets/2.png" alt="Wagner" width="100" hspace="0">
+  <img src="/docs/assets/5.jpeg" alt="Kalebe" width="150" hspace="0">
+  <img src="/docs/assets/3.jpg" alt="Lucas" width="150" hspace="0">
+  <img src="/docs/assets/1.jpg" alt="Murilo" width="150" hspace="0">
+  <img src="/docs/assets/4.jpeg" alt="Thiago" width="150" hspace="0">
+  <img src="/docs/assets/2.jpg" alt="Wagner" width="150" hspace="0">
 </div> 
 
 ---
