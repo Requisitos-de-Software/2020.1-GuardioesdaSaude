@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href = "https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude">
-    <img src="/docs/assets/guardioes.png" width="500px"/>
+    <img src="/docs/assets/guardioes.jpeg" width="500px"/>
   </a>
 </div>
   
@@ -55,16 +55,13 @@
   </tbody>  
 </table> 
 
----
-
-## Ferramentas
-
 
 <div>
-  <img src="/docs/assets/zenhub.png" alt="ZenHub" width="100" hspace="30">
-  <img src="/docs/assets/telegram.png" alt="Telegram" width="100" hspace="0">
-  <img src="/docs/assets/git.png" alt="GitHub" width="200">
-  <img src="/docs/assets/driver.png" alt="Driver" width="130" hspace="5">
-  <img src="/docs/assets/calendar.png" alt="Google Calendar" width="130" hspace="25">
-  <img src="/docs/assets/teams.png" alt="Teams" width="140" hspace="0">
+  <img src="/docs/assets/5.jpeg" alt="Kalebe" width="100" hspace="0">
+  <img src="/docs/assets/3.png" alt="Lucas" width="100" hspace="0">
+  <img src="/docs/assets/1.png" alt="Murilo" width="100" hspace="0">
+  <img src="/docs/assets/4.png" alt="Thiago" width="100" hspace="0">
+  <img src="/docs/assets/2.png" alt="Wagner" width="100" hspace="0">
 </div> 
+
+---
