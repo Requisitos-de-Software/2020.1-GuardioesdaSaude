@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href = "https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude">
-    <img src="/docs/assets/guardioes.jpeg" width="500px"/>
+    <img src="/docs/assets/guardioes.png" width="500px"/>
   </a>
 </div>
   
