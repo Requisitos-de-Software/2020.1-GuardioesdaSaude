@@ -62,11 +62,11 @@
   <tbody>
     <tr> 
       <td>
-        <img src="/docs/assets/5.jpeg" alt="Kalebe" width="180" height="180"  hspace="2"> 
-        <img src="/docs/assets/3.jpg" alt="Kalebe" width="180" height="180"  hspace="2">
-        <img src="/docs/assets/1.jpg" alt="Murilo" width="180" height="180" hspace="2">
-        <img src="/docs/assets/4.jpeg" alt="Thiago" width="180" height="180" hspace="2">
-        <img src="/docs/assets/2.jpg" alt="Wagner" width="180" height="180" hspace="2">
+        <img src="/docs/assets/5.jpeg" alt="Kalebe" width="180" height="180"  hspace="1"> 
+        <img src="/docs/assets/3.jpg" alt="Kalebe" width="180" height="180"  hspace="1">
+        <img src="/docs/assets/1.jpg" alt="Murilo" width="180" height="180" hspace="1">
+        <img src="/docs/assets/4.jpeg" alt="Thiago" width="180" height="180" hspace="1">
+        <img src="/docs/assets/2.jpg" alt="Wagner" width="180" height="180" hspace="1">
       </td>
     </tr>
   </tbody>
