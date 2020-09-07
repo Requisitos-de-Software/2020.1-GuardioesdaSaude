@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+    height: 250px;
+    box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+    margin: 10px 14px;
+}
+
+.profile {
+    max-height: 120px;
+    width: 100%;
+}
+
+.name{
+    align-self: center;
+    margin-left: 40px;
+}
+
+.link {
+    align-self: center;
+}
+
+
+.git {
+    width: 40px;
+    height: 40px;
+    align-self: center;
+}

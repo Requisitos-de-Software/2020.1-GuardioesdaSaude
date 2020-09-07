@@ -29,6 +29,8 @@ pages:
     - Forward-From: 'pos-rastreabilidade/forward.md'
     - EAP: 'pos-rastreabilidade/eap.md'
 
+extra_css: 
+  - assets/css/extra.css
 theme:
   name: material
   logo: assets/logo.png
