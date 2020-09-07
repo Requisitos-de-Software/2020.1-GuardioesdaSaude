@@ -9,12 +9,13 @@
 ---
 
 ## Sobre o Projeto
+Repositório desenvolvido com o objetivo de armazenar os documentos e artefatos levantados sobre o App Guardiões da Saúde,com a ótica e conceitos ministrados na disciplina Engenharia de Requisitos(FGA-UNB).
 
 ---
 
 ## Equipe 
 
-<table align="center">
+<table >
   <thead>
     <th>Nome</th>
     <th>Matrícula</th>
