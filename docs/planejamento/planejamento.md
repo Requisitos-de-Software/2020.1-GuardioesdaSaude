@@ -31,14 +31,14 @@ Ferramentas utilizadas pelo time.
 
 <table>
     <tr>
-        <th><img src"/docs/assets/calendar.png" alt="Calendar" width="100" hspace="0"></th>
-        <th><img src"/docs/assets/driver.png" alt="Driver" width="100" hspace="0"></th>
-        <th><img src"/docs/assets/telegram.png" alt="Telegram" width="100" hspace="0"></th>
+        <th><img src="../assets/calendar.png" alt="Calendar" width="100" hspace="0"></th>
+        <th><img src="../assets/driver.png" alt="Driver" width="100" hspace="0"></th>
+        <th><img src="../assets/telegram.png" alt="Telegram" width="100" hspace="0"></th>
     </tr>
     <tr>
-        <th><img src"/docs/assets/teams.png" alt="Teams" width="100" hspace="0"></th>
-        <th><img src"/docs/assets/zenhub.png" alt="Zenhub" width="100" hspace="0"></th>
-        <th><img src"/docs/assets/git.png" alt="Git" width="100" hspace="0"></th>
+        <th><img src="../assets/teams.png" alt="Teams" width="100" hspace="0"></th>
+        <th><img src="../assets/zenhub.png" alt="Zenhub" width="100" hspace="0"></th>
+        <th><img src="../assets/git.png" alt="Git" width="100" hspace="0"></th>
     </tr>
 <table> 
 
@@ -61,5 +61,11 @@ Ferramentas utilizadas pelo time.
         <td>1.1</td>
         <td>06/09/2020</td>
         <td>Adição do heatmap e metodologia</td>
+    </tr>
+    <tr>
+        <td>Kalebe Lopes</td>
+        <td>1.2</td>
+        <td>08/09/2020</td>
+        <td>Adição das ferramentas</td>
     </tr>
 </table>   
