@@ -3,7 +3,7 @@
 A ferramenta Google Calendar está sendo usada para o planejamento do cronograma do projeto.
 
 ## Metodologia
-O grupo fará reuniões semanais para organização e avaliação das atividades. As ferramentas utilizadas podem ser encontradas na página [Home](../index.md).
+O grupo fará reuniões semanais para organização e avaliação das atividades.
 
 ## Heatmap
 ![Heatmap](Heatmap.png)
