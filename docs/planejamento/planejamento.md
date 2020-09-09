@@ -25,6 +25,23 @@ Segue abaixo a tabela com os pontos de controle do projeto e principais técnica
 
 **As técnicas serão atualizadas conforme o progresso da disciplina.*
 
+## Ferramentas
+
+Ferramentas utilizadas pelo time.
+
+<table>
+    <tr>
+        <th><img src"/docs/assets/calendar.png" alt="Calendar" width="100" hspace="0"></th>
+        <th><img src"/docs/assets/driver.png" alt="Driver" width="100" hspace="0"></th>
+        <th><img src"/docs/assets/telegram.png" alt="Telegram" width="100" hspace="0"></th>
+    </tr>
+    <tr>
+        <th><img src"/docs/assets/teams.png" alt="Teams" width="100" hspace="0"></th>
+        <th><img src"/docs/assets/zenhub.png" alt="Zenhub" width="100" hspace="0"></th>
+        <th><img src"/docs/assets/git.png" alt="Git" width="100" hspace="0"></th>
+    </tr>
+<table> 
+
 ## Versionamento
 <table>
     <tr>
@@ -45,4 +62,4 @@ Segue abaixo a tabela com os pontos de controle do projeto e principais técnica
         <td>06/09/2020</td>
         <td>Adição do heatmap e metodologia</td>
     </tr>
-</table>
+</table>   
