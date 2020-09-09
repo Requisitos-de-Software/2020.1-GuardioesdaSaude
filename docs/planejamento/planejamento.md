@@ -31,16 +31,14 @@ Ferramentas utilizadas pelo time.
 
 <table>
     <tr>
-        <th><img src="../assets/calendar.png" alt="Calendar" width="100" hspace="0"></th>
-        <th><img src="../assets/driver.png" alt="Driver" width="100" hspace="0"></th>
-        <th><img src="../assets/telegram.png" alt="Telegram" width="100" hspace="0"></th>
+        <th><img src="../assets/calendar.png" alt="Calendar" width="100" hspace="10"></th>
+        <th><img src="../assets/driver.png" alt="Driver" width="100" hspace="10"></th>
+        <th><img src="../assets/telegram.png" alt="Telegram" width="100" hspace="10"></th>
+        <th><img src="../assets/teams.png" alt="Teams" width="100" hspace="10"></th>
+        <th><img src="../assets/zenhub.png" alt="Zenhub" width="100" hspace="10"></th>
+        <th><img src="../assets/git.png" alt="Git" width="110" hspace="10"></th>
     </tr>
-    <tr>
-        <th><img src="../assets/teams.png" alt="Teams" width="100" hspace="0"></th>
-        <th><img src="../assets/zenhub.png" alt="Zenhub" width="100" hspace="0"></th>
-        <th><img src="../assets/git.png" alt="Git" width="100" hspace="0"></th>
-    </tr>
-<table> 
+</table> 
 
 ## Versionamento
 <table>
