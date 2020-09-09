@@ -31,12 +31,17 @@ Ferramentas utilizadas pelo time.
 
 <table>
     <tr>
-        <th><img src="https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/gh-pages/assets/calendar.png" alt="Calendar" width="100"                        hspace="10"></th>
-        <th><img src="https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/gh-pages/assets/driver.png" alt="Driver" width="100" hspace="10">          </th>
-        <th><img src="https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/gh-pages/assets/telegram.png" alt="Telegram" width="100"                      hspace="10"></th>
-        <th><img src="https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/gh-pages/assets/teams.png" alt="Teams" width="100" hspace="10">            </th>
-        <th><img src="https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/gh-pages/assets/zenhub.png" alt="Zenhub" width="100" hspace="10">           </th>
-        <th><img src="https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/gh-pages/assets/git.png" alt="Git" width="110" hspace="10">              </th>
+        <th><img src="https://user-images.githubusercontent.com/44823367/92600965-98b6ab80-f282-11ea-9b23-9be7a2e48a70.png" alt="Calendar" width="100"                        hspace="10">
+        </th>
+        <th><img src="https://user-images.githubusercontent.com/44823367/92601222-edf2bd00-f282-11ea-939c-2dd7436fa5ff.png" alt="Driver" width="100"                        hspace="10">
+        </th>
+        <th><img src="https://user-images.githubusercontent.com/44823367/92601308-08c53180-f283-11ea-9c8b-6fc448b5efe6.png" alt="Telegram" width="100"                      hspace="10">
+        </th>
+        <th><img src="https://user-images.githubusercontent.com/44823367/92601366-1975a780-f283-11ea-843b-7d42951a7ee4.png" alt="Teams" width="100"                         hspace="10">
+        </th>
+        <th><img src="https://user-images.githubusercontent.com/44823367/92601872-b7697200-f283-11ea-8095-39b1ae65ce0a.png" alt="Zenhub" width="100"                       hspace="10">
+        </th>
+        <th><img src="https://user-images.githubusercontent.com/44823367/92601471-3a3dfd00-f283-11ea-97a1-941c8245ae14.png" alt="Git" width="110" hspace="10">              </th>
     </tr>
 </table> 
 
