@@ -5,6 +5,7 @@ pages:
   - Pré-Rastreabilidade:
     - Rich Pictures: 'pre-rastreabilidade/RichPictures.md'
   - Elicitação:
+    - Questionário: 'elicitacao/Questionario/questionario.md'
     - Introspecção: 'elicitacao/Introspeccao.md'
     - Observação: 'elicitacao/observacao.md'
     - Brainstorming: 'elicitacao/brainstorming.md'

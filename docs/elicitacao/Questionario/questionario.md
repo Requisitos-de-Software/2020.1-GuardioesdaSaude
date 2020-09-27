@@ -1,9 +1,3 @@
-> **Autor:** Thiago Luiz
->
-> **Descrição:** Questionario
->
-> **Versão:** 0.1
-
 # Questionário
 
 ## Metodologia
@@ -47,4 +41,9 @@ Com os resultados do questionário, algumas duvidas poderam ser sanadas, como po
 
 Também foi encontrado bugs no aplicativo no momento de registrar o status de saúde diário, estes problemas são graves uma vez que os créditos atribuídos aos alunos da Universidade de Brasília, dependem da quantidade de dias informados, além de gerar dados duvidosos quanto a saúde em cada região. Em contra partida, os dados levantados pelo aplicativo são muito bem trabalhados e apresentados de forma didática pelas redes sociais do Guardiões da Saúde, colaborando dessa forma com a conscientização da população a respeito da Covid-19. 
 
-Também foi possível constatar que os usuários em sua maiora esquecem de registrar os seus status de saúde todos os dias, o mecanismo do aplicativo que avisa os usuários para se reportar diariamente é um bom exemplo requisisto que pode ser aprimorado para diminuir os número de casos não reportados.
+Também foi possível constatar que os usuários em sua maiora esquecem de registrar os seus status de saúde todos os dias, o mecanismo do aplicativo que avisa os usuários para se reportar diariamente é um bom exemplo de requisito que pode ser aprimorado para diminuir os números de casos não reportados.
+
+## **Histórico de revisões**
+Autor | Versão | Data(dd/mm/aaa) | Descrição 
+---- | ----------- | ------ | ---------
+[Thiago Luiz de Souza Gomes](https://github.com/thiagomesUNB) | 1.0 | 27/09/2020 | Respostas do Questionário e levantamento dos resquisitos.
