@@ -43,7 +43,7 @@ Também foi encontrado bugs no aplicativo no momento de registrar o status de sa
 
 Também foi possível constatar que os usuários em sua maiora esquecem de registrar os seus status de saúde todos os dias, o mecanismo do aplicativo que avisa os usuários para se reportar diariamente é um bom exemplo de requisito que pode ser aprimorado para diminuir os números de casos não reportados.
 
-##Requisitos Elicitados
+## Requisitos Elicitados
 <li>| 24 | Deve existir um sistema de recompensa para outras universidades. </li>
 <li>| 25 | Deve ser possível olhar os gráficos e dados estatísticos no próprio aplicativo . </li>
 <li>| 26 | Deve ser corrigido os bugs dos registros diários de sáude. </li>
