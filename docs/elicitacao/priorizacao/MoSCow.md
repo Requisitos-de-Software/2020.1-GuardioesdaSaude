@@ -35,6 +35,13 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 | 21 | Deve ser possível alterar o nome de perfil. | Could Have |
 | 22 | Deve ser possível editar o nome que ficará disponível no perfil. | Could Have |
 | 23 | Deve ser possível mudar e-mail e senha referente a conta. | Should Have |
+| 25 | Deve ser possível olhar os gráficos e dados estatísticos no próprio aplicativo . | Could Have |
+| 26 | Deve ser corrigido os bugs dos registros diários de sáude. | Could Have |
+| 27 | O usuário deve ser informado e atualizado constantemente sobre a situação da Covid-19 no país. | Won't Have |
+| 28 | O usuário deve ser notificado várias vezes ao dia, com mensagens diferentes, para reportar o seu status de saúde | Should Have |
+| 29 | Deve existir um mecanismo para verificar em quais regiões,principalmente hospitais, o usuário deva evitar caso tenha a necessidade de ir. | Should Have |
+
+
 
 ### Requisitos não funcionais
 
@@ -46,11 +53,14 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 | 12 | O sistema deve garantir que o usuário responda apenas uma vez a pergunta. | Must Have |
 | 17 | O sistema deverá nomear as ruas,vias e rodovias mostradas no mapa. | Could Have |
 | 19 | Ao se clicar em uma dessas porções deverá ser informado ao usuário as quantidades de pessoas ,que responderam ao app, e a porcentagem de sintomáticos. | Could Have |
+| 24 | Deve existir um sistema de recompensa para outras universidades. | Won't Have |
+| 30 | Deve ser possível reportar bugs, e problemas técnicos pertinente ao sistema. | Won't Have|
 
 ## **Histórico de revisões**
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
 [Lucas Lopes Xavier](https://github.com/lucaslop) | 0.1 | 27/09/2020 | Adicionado Priorização dos requisitos do método de introspecção.|
+[Lucas Lopes Xavier](https://github.com/lucaslop) | 0.2 | 27/09/2020 | Adicionado Priorização dos requisitos do método de Questionário.|
 
 
 ## **Referências**
