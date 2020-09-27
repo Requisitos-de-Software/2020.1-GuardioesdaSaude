@@ -43,7 +43,18 @@ Também foi encontrado bugs no aplicativo no momento de registrar o status de sa
 
 Também foi possível constatar que os usuários em sua maiora esquecem de registrar os seus status de saúde todos os dias, o mecanismo do aplicativo que avisa os usuários para se reportar diariamente é um bom exemplo de requisito que pode ser aprimorado para diminuir os números de casos não reportados.
 
+##Requisitos Elicitados
+<li>| 24 | Deve existir um sistema de recompensa para outras universidades. </li>
+<li>| 25 | Deve ser possível olhar os gráficos e dados estatísticos no próprio aplicativo . </li>
+<li>| 26 | Deve ser corrigido os bugs dos registros diários de sáude. </li>
+<li>| 27 | O usuário deve ser informado e atualizado constantemente sobre a situação da Covid-19 no país. </li>
+<li>| 28 | O usuário deve ser notificado várias vezes ao dia, com mensagens diferentes, para reportar o seu status de saúde </li>
+<li>| 29 | Deve existir um mecanismo para verificar em quais regiões,principalmente hospitais, o usuário deva evitar caso tenha a necessidade de ir. </li>
+<li>| 30 | Deve ser possível reportar bugs, e problemas técnicos pertinente ao sistema. </li>
+
 ## **Histórico de revisões**
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
 [Thiago Luiz de Souza Gomes](https://github.com/thiagomesUNB) | 1.0 | 27/09/2020 | Respostas do Questionário e levantamento dos resquisitos.
+
+
