@@ -56,5 +56,6 @@ Também foi possível constatar que os usuários em sua maiora esquecem de regis
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
 [Thiago Luiz de Souza Gomes](https://github.com/thiagomesUNB) | 1.0 | 27/09/2020 | Respostas do Questionário e levantamento dos resquisitos.
+[Thiago Luiz de Souza Gomes](https://github.com/thiagomesUNB) | 1.1 | 27/09/2020 | Adicionando Requisistos Elicitados em tópicos.
 
 
