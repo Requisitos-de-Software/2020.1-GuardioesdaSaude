@@ -1,55 +1,57 @@
-## Introspeccao
+# Introspeccao
 
 
 <p align="justify">A introspecção é uma técnica de elicitação que consiste no exercício de imaginar as possíveis atividades no app e levantar seus respectivos requisitos.</p>
 
 
-#  Ao acessar o aplicativo: 
+##  Ao acessar o aplicativo: 
+<ul>
 
-| 1 | Ter uma tela agradável, limpa e intuitiva com as opções de cadastro e Login.  |
-| 2 | Acesso fácil às diversas telas do app  |
+<li>| 1 | Ter uma tela agradável, limpa e intuitiva com as opções de cadastro e Login.  |</li>
+<li>| 2 | Acesso fácil às diversas telas do app  |</li>
 
-# Ao acessar a opção de login:
+## Ao acessar a opção de login:
 
-| 3 | .Ter a opção de poder realizar seu login através de outras contas como facebook , google , etc, ou com seu email cadastrado. |
-| 4 | .Ter um campo para a senha cadastrada. |
-| 5 | .Mostrar um meio de recuperar a senha perdida.  |
+<li>| 3 | .Ter a opção de poder realizar seu login através de outras contas como facebook , google , etc, ou com seu email cadastrado. |</li>
+<li>| 4 | .Ter um campo para a senha cadastrada. |</li>
+<li>| 5 | .Mostrar um meio de recuperar a senha perdida.  |</li>
 
-# Ao acessar a opção de cadastro:
+## Ao acessar a opção de cadastro:
 
-| 6 | .Deixar claro para o usuário os Termos e Políticas do APP.  |
-| 7 | .Perguntas específicas importantes para o app como: se ele é um profissional da saúde , se faz parte do grupo de risco e se é aluno de alguma instituição de ensino. |
-| 8 | .Opções de email,ou outras contas de uso do aluno, e senha. |
+<li>| 6 | .Deixar claro para o usuário os Termos e Políticas do APP.  |</li>
+<li>| 7 | .Perguntas específicas importantes para o app como: se ele é um profissional da saúde , se faz parte do grupo de risco e se é aluno de alguma instituição de ensino. |</li>
+<li>| 8 | .Opções de email,ou outras contas de uso do aluno, e senha. |</li>
 
-# Tela inicial:
+## Tela inicial:
 
-| 9 | .O sistema deverá perguntar ao usuário se ele está se sentindo bem o mal diariamente. |
-| 10 | .Na opção “Mal” deverá ser aberto um questionários abrangendo os sintomas sentidos e o período dos sintomas. |
-| 11 | .Deverá também conter questões importantes para o momento que atual de pandemia como: “saiu de casa nos últimos 14 dias?”,”teve contato com alguém?”.|
-| 12 | .O sistema deve garantir que o usuário responda apenas uma vez a pergunta. |
-| 13 | . O usuário poderá alternar sua resposta ao longo do dia. | 
+<li>| 9 | .O sistema deverá perguntar ao usuário se ele está se sentindo bem o mal diariamente. |</li>
+<li>| 10 | .Na opção “Mal” deverá ser aberto um questionários abrangendo os sintomas sentidos e o período dos sintomas. |</li>
+<li>| 11 | .Deverá também conter questões importantes para o momento que atual de pandemia como: “saiu de casa nos últimos 14 dias?”,”teve contato com alguém?”.|</li>
+<li>| 12 | .O sistema deve garantir que o usuário responda apenas uma vez a pergunta. |</li>
+<li>| 13 | . O usuário poderá alternar sua resposta ao longo do dia. |</li> 
 
 
 
-# Tela Contendo o mapa:
+## Tela Contendo o mapa:
 
-| 14 | .O Mapa deverá mostrar a região em que o usuário está usando o app. |
-| 15 | .Deverá ser informado a localização do usuário dentro da região mapeada em tempo real de uso. |
-| 16 | .O Mapa deverá informar de maneira clara as regiões e cidades contidas. |
-| 17 | .O sistema deverá nomear as ruas,vias e rodovias mostradas no mapa. |
-| 18 | .O sistema deverá demarcar porções no mapa indicando o grau de periculosidade delas através de cores. |
-| 19 | .Ao se clicar em uma dessas porções deverá ser informado ao usuário as quantidades de pessoas ,que responderam ao app, e a porcentagem de sintomáticos. |
-| 20 | .Deverá ser possível ao usuário navegar para regiões mais distantes de sua localização através do mapa exibido. |
+<li>| 14 | .O Mapa deverá mostrar a região em que o usuário está usando o app. |</li>
+<li>| 15 | .Deverá ser informado a localização do usuário dentro da região mapeada em tempo real de uso. |</li>
+<li>| 16 | .O Mapa deverá informar de maneira clara as regiões e cidades contidas. |</li>
+<li>| 17 | .O sistema deverá nomear as ruas,vias e rodovias mostradas no mapa. |</li>
+<li>| 18 | .O sistema deverá demarcar porções no mapa indicando o grau de periculosidade delas através de cores. |</li>
+<li>| 19 | .Ao se clicar em uma dessas porções deverá ser informado ao usuário as quantidades de pessoas ,que responderam ao app, e a porcentagem de sintomáticos. |</li>
+<li>| 20 | .Deverá ser possível ao usuário navegar para regiões mais distantes de sua localização através do mapa exibido. |</li>
 
-# Perfil:
+## Perfil:
 
-| 21 | .Deve ser possível alterar o nome de perfil. |
-| 22 | .Deve ser possível editar o nome que ficará disponível no perfil. |
-| 23 | .Deve ser possível mudar e-mail e senha referente a conta. |
+<li>| 21 | .Deve ser possível alterar o nome de perfil. |</li>
+<li>| 22 | .Deve ser possível editar o nome que ficará disponível no perfil. |</li>
+<li>| 23 | .Deve ser possível mudar e-mail e senha referente a conta. |</li>
 
-# Histórico de revisões
+</ul>
+## Histórico de revisões
 
-<h1>Versionamento de edições desta página</h1>
+<h1></h1>
 <table>
 <thead>
 <tr>
@@ -67,7 +69,7 @@
 <td>0.1</td>
 </tr>
 
-# Referências
+## Referências
 
 <ul>
 <li>
