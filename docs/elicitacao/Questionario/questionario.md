@@ -37,7 +37,7 @@ Para levantamento de dados e alguns requisitos o questionario foi realizado com 
 ![Questão 8](https://i.imgur.com/NQzp3qj.png)
 
 
-Com os resultados do questionário, algumas duvidas poderam ser sanadas, como por exemplo, o Guardiões da Saúde possuí em quase sua totalidade usuários da Universidade de Brasília, por causa dos 4 créditos atribuídos aos alunos que o utilizam, sendo assim não existe nenhuma espécie de incentivo para o restante da população. Algo que pode ser percebido também é a funcionalidade de poder ver o status de saúde dos usuários do aplicativo por região sendo uma medida estatística apresentada de forma fácil e interativa.
+Com os resultados do questionário, algumas dúvidas puderam ser sanadas, como por exemplo, o Guardiões da Saúde possuí em quase sua totalidade usuários da Universidade de Brasília, por causa dos 4 créditos atribuídos aos alunos que o utilizam, sendo assim não existe nenhuma espécie de incentivo para o restante da população. Algo que pode ser percebido também é a funcionalidade de poder ver o status de saúde dos usuários do aplicativo por região sendo uma medida estatística apresentada de forma fácil e interativa.
 
 Também foi encontrado bugs no aplicativo no momento de registrar o status de saúde diário, estes problemas são graves uma vez que os créditos atribuídos aos alunos da Universidade de Brasília, dependem da quantidade de dias informados, além de gerar dados duvidosos quanto a saúde em cada região. Em contra partida, os dados levantados pelo aplicativo são muito bem trabalhados e apresentados de forma didática pelas redes sociais do Guardiões da Saúde, colaborando dessa forma com a conscientização da população a respeito da Covid-19. 
 
