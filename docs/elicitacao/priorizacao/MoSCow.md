@@ -46,3 +46,12 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 | 12 | O sistema deve garantir que o usuário responda apenas uma vez a pergunta. | Must Have |
 | 17 | O sistema deverá nomear as ruas,vias e rodovias mostradas no mapa. | Could Have |
 | 19 | Ao se clicar em uma dessas porções deverá ser informado ao usuário as quantidades de pessoas ,que responderam ao app, e a porcentagem de sintomáticos. | Could Have |
+
+## **Histórico de revisões**
+Autor | Versão | Data(dd/mm/aaa) | Descrição 
+---- | ----------- | ------ | ---------
+[Lucas Lopes Xavier](https://github.com/lucaslop) | 0.1 | 27/09/2020 | Adicionado Priorização dos requisitos do método de introspecção.|
+
+
+## **Referências**
+ * <p align="justify">Priorizar o Backlog com a técnica MoSCoW. Disponível em: https://blog.andrefaria.com/priorizar-o-backlog-com-tecnica-moscow. Acesso em: 27 set. 2020.</p>
