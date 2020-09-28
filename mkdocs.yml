@@ -9,8 +9,11 @@ pages:
     - Introspecção: 'elicitacao/Introspeccao.md'
     - Observação: 'elicitacao/observacao.md'
     - Brainstorming: 'elicitacao/brainstorming.md'
+    - Priorização: 'elicitacao/priorizacao.md'
+    - FirstThingsFirst: 
     - Priorização:
         - 'elicitacao/priorizacao/MoSCow.md'
+        - 'elicitacao/priorizacao/FirstThingsFirst.md'
   - Modelagem:
     - Cenários: 'modelagem/cenarios.md'
     - Léxicos: 'modelagem/lexicos.md'
