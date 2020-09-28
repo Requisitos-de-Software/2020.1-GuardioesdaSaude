@@ -5,12 +5,9 @@ pages:
   - Pré-Rastreabilidade:
     - Rich Pictures: 'pre-rastreabilidade/RichPictures.md'
   - Elicitação:
-    - Questionário: 'elicitacao/Questionario/questionario.md'
-    - Introspecção: 'elicitacao/Introspeccao.md'
-    - Observação: 'elicitacao/observacao.md'
-    - Brainstorming: 'elicitacao/brainstorming.md'
-    - Priorização: 'elicitacao/priorizacao.md'
-    - FirstThingsFirst: 
+    - Questionário: 'elicitacao/elicitacao_tecnicas/questionario.md'
+    - Introspecção: 'elicitacao/elicitacao_tecnicas/Introspeccao.md'
+    - Storytelling: 'elicitacao/elicitacao_tecnicas/storytelling.md'
     - Priorização:
         - 'elicitacao/priorizacao/MoSCow.md'
         - 'elicitacao/priorizacao/FirstThingsFirst.md'
