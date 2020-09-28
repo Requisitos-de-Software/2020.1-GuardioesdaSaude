@@ -34,7 +34,7 @@ Storytelling é uma técnica de elicitação de requisitos. Se baseia em histór
 
 Luiz é o secretáro de saúde de Brasília e, juntamente com sua equipe, precisa coletar informações sobre o estado de saúde da população do Distrito Federal durante a pandemia para fazer o monitoramento de doentes. Luiz precisa obter uma estimativa de quantos infectados existem no DF e em qual cidades eles moram. <br/><br/> Sabendo que é inviável sair batendo de porta em porta para obter essas informações, por conta do alto risco de alguém da sua equipe ser contaminado, resolveu entrar em contato com o setor de software e explicar toda a situação. <br/><br/> Rapidamente um dos estagiários do setor de software, que é estudante de Engenharia de Software da Universidade De Brasília, apresentou para Luiz um aplicativo capaz de fazer tudo o que ele precisava: saber a quantidade de infectados em cada região, saber as áreas mais afetadas, saber o total de infectados em todo o DF, ter um gráfico contendo todas essas informações para facilitar as análises.<br/><br/> Por fim, Luiz fechou uma parceria com a ProEpi (Associação Brasileira de Profissionais de Edpidemiologia de Campo) e a UnB e agora consegue obter todas as informações relevantes para sua equipe prosseguir com o monitoramento de infectados no Distrito Federal através do app.<br/> <br/>  
 
-**Requisitos**<br/><br/> 
+## **Requisitos**<br/><br/> 
 
 
   ID | Descrição   | 
@@ -72,7 +72,7 @@ Luiz é o secretáro de saúde de Brasília e, juntamente com sua equipe, precis
       <td>27/09/2020</td>
       <td>Kalebe Lopes</td>
       <td>Adicionou identificador nos requisitos.</td>
-      <td>0.1</td>
+      <td>0.2</td>
     </tr>
   </tbody>
 </table>
