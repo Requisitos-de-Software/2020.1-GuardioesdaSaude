@@ -40,8 +40,11 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 | 27 | O usuário deve ser informado e atualizado constantemente sobre a situação da Covid-19 no país. | Won't Have |
 | 28 | O usuário deve ser notificado várias vezes ao dia, com mensagens diferentes, para reportar o seu status de saúde | Should Have |
 | 29 | Deve existir um mecanismo para verificar em quais regiões,principalmente hospitais, o usuário deva evitar caso tenha a necessidade de ir. | Should Have |
-
-
+| 31 | O sistema tem que mostrar a quantidade de infectados em cada cidade. | Could Have |
+| 32 | O sistema tem que mostrar a quantidade de infectado no DF. | Won't Have |
+| 33 | O sistema tem que destacar as áreas mais afetadas. | Could Have | 
+| 35 | O usuário tem que informar sua cidade. | Could Have |
+| 38 |O sistema poderia exibir a faixa etária dos infectados. | Won't Have |
 
 ### Requisitos não funcionais
 
@@ -60,7 +63,8 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
 [Lucas Lopes Xavier](https://github.com/lucaslop) | 0.1 | 27/09/2020 | Adicionado Priorização dos requisitos do método de introspecção.|
-[Lucas Lopes Xavier](https://github.com/lucaslop) | 0.2 | 27/09/2020 | Adicionado Priorização dos requisitos do método de Questionário.|
+[Lucas Lopes Xavier](https://github.com/lucaslop) | 0.2 | 27/09/2020 | Adicionado Priorização dos requisitos do método de Questionário e Storytelling |
+
 
 
 ## **Referências**
