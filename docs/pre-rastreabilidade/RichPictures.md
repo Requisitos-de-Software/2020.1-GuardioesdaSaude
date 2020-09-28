@@ -14,11 +14,18 @@ Inicialmente cada integrante do grupo ficou responsável por fazer o Rich Pictur
 <p align="center">
 Visão inicial do fluxo principal do sistema </p>
 
+## **Versão 0.2** .
+![Rich-picture](https://user-images.githubusercontent.com/38164895/94356047-45a16e80-0060-11eb-8e6e-576299bd4bf9.png)
+<p align="center">
+Visão melhorada após feedback do professor. Foi utilizado: - Atores, Operações, Repositórios de dados Setas, e Fronteira do sistema.  </p>
+
+
 
 ## **Histórico de revisões**
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
-[Lucas Lopes Xavier](https://github.com/lucaslop) | 0.1 | 06/09/2020 | Adicionando primeira versão do Rich Picture
+[Lucas Lopes Xavier](https://github.com/lucaslop) | 0.1 | 06/09/2020 | Adicioando primeira versão do Rich Picture
+[Lucas Lopes Xavier](https://github.com/lucaslop) | 0.2 | 27/09/2020 | Adicionado segunda versão do Rich Picture
 
 
 ## **Referências**
