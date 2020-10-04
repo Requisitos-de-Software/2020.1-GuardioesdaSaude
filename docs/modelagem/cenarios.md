@@ -9,6 +9,7 @@ Cada cenário geralmente cobre um pequeno número de interações possíveis, e 
 ## Histórico de revisões
 
 Autor | Versão | Data(dd/mm/aaaa) | Descrição 
+------|--------|------------------|----------
 Wagner Martins | 1.0 | 01/10/2020 | Informações sobre cenários
 
 
