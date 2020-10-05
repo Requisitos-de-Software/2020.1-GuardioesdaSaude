@@ -17,6 +17,7 @@ pages:
     - Diagramas de Casos de Uso: 'modelagem/dcu.md'
     - Especificações de casos de uso: 'modelagem/ecu.md'
     - Especificação Suplementar: 'modelagem/es.md'
+  - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
 theme:
