@@ -1,6 +1,6 @@
 # Diagrama de Casos de Uso
 
-<p align='justify'>É um diagrama que mostra um sistema ou um aplicativo, as pessoas, organizações ou outros sistemas que interagem com ele, e um fluxo básico do que o sistema faz, sendo uma abordagem que não mostra muitos detalhes, sendo útil para quando se quiser mostrar as ideias de forma simples.</p>
+<p align='justify'>É um diagrama que mostra um sistema ou um aplicativo, as pessoas, organizações ou outros sistemas que interagem com ele, e um fluxo básico do que o sistema faz, sendo uma abordagem que não mostra muitos detalhes, útil para quando se quer mostrar as ideias de forma simples.</p>
 
 <p align='justify'>É representado em notação UML (Unified Modeling Language) e focado em requisitos funcionais.</p>
 
