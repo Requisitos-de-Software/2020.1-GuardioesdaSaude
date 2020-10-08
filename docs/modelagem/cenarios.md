@@ -6,6 +6,8 @@ Cada cenário geralmente cobre um pequeno número de interações possíveis, e 
 
 
 
+## [C1](#c1)
+
 **Realizar cadastro**
 
 |Objetivo  |
