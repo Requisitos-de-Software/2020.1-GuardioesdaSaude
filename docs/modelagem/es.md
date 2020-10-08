@@ -60,7 +60,34 @@ Este documento apresenta especificações dos requisitos não funcionais orienta
     * O smartphone deverá ter conexão com a internet para que o aplicativo funcione corretamente.
 
 
-## Referências
+# Versionamento de edição
+
+<table>
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>Autor</th>
+      <th>Descrição</th>
+      <th>Versão</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>06/10/2020</td>
+      <td>Kalebe Lopes</td>
+      <td>Croação do documento.</td>
+      <td>0.1</td>
+    </tr>
+    <tr>
+      <td>08/10/2020</td>
+      <td>Kalebe Lopes</td>
+      <td>Adição da especificação suplementar</td>
+      <td>0.2</td>
+    </tr>
+  </tbody>
+</table>
+
+# Referências
 
 Samily, Francisco. PHP SOFTWARE COMPANY. PHP, 2020. Disponível em: https://aprender3.unb.br/pluginfile.php/426762/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf. Acesso em: 08 de Outubro de 2020.
 
