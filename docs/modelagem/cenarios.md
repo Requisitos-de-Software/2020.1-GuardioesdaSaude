@@ -68,6 +68,67 @@ Cada cenário geralmente cobre um pequeno número de interações possíveis, e 
 |**Exceção**|
 |Internet cair<br> Usuário ja ter reportado naquele dia <br> Usuário não logado <br> Sistema indisponível|
 
+## [C4](#c4)
+
+**Visualizar mapa**
+
+|Objetivo  |
+ -----------   |
+|Vizualizar mapa|
+|**Contexto** |
+|Local: Aba mapa no menu inferior<br>Pré-condição: Estar logado no app<br>Pós-condição: Mapa visualizado|
+|**Atores**|
+|Usuário|
+|**Recursos**|
+|Internet<br>Aplicativo<br>Dispositivo móvel com GPS|
+|**Episódios**|
+|Usuário abre o aplicativo<br>Usuário seleciona mapa menu inferior<br>Usuário analisa a região<br>Usuário decide quanto cuidado tomar baseado nas marcações do mapa|
+|**Restrição**|
+|Aplicativo estar instalado<br>Usuário logado|
+|**Exceção**|
+|Internet não funcionar<br>Servidor indisponível|
+
+## [C5](#c5)
+
+**Visualizar calendário**
+
+|Objetivo  |
+ -----------   |
+|Visualizar calendário e estatísticas dos relatos|
+|**Contexto** |
+|Local: Aba diário no menu inferior<br>Pré-condição: Usuário querer saber como está seu histórico de relatos de estado de saúde<br>Pós-condição: Histórico visualizado
+Atores|Usuário|
+|**Atores**|
+|Usuário|
+|**Recursos**|
+|Aplicativo<br>Internet|
+|**Episódios**|
+|Usuário entra no aplicativo<br>Usuário seleciona diário no menu inferior<br>Usuário olha quantas vezes ele reportou seus status como bem e mal<br>Usuário navega pelo calendário e vê quais dias ele reportou e quais não<br>Usuário desliza o calendário para o lado e vê as estatísticas dos status|
+|**Restrição**|
+|Aplicativo instalado<br>Usuário logado|
+|**Exceção**|
+|Internet não funcionar<br>Servidor indisponível|
+
+
+## [C6](#c6)
+
+**Editar dados do perfil**
+
+|Objetivo  |
+ -----------   |
+|Editar dados de algum perfil associado à conta|
+|**Contexto** |
+|Menu flutuante na home, opção Editar perfis<br>Pré-condição: Usuário quer modificar informações de algum dos perfis associado à conta<br>Pós-condição: Infomações modificadas|
+|**Atores**|
+|Usuário|
+|**Recursos**|
+|Aplicativo<br>Internet|
+|**Episódios**|
+|Usuário entra no aplicativo<br>Usuário abre o menu esquerdo da página inicial<br>Usuário seleciona Editar perfis no menu<br>Usuário seleciona o perfil que deseja editar<br>Usuário faz as modificações e salva|
+|**Restrição**|
+|Aplicativo instalado<br>Usuário logado|
+|**Exceção**|
+|Internet não funcionar<br>Servidor indisponível|
 
 ## Histórico de revisões
 
@@ -75,7 +136,7 @@ Autor | Versão | Data(dd/mm/aaaa) | Descrição
 ------|--------|------------------|----------
 Wagner Martins | 1.0 | 01/10/2020 | Informações sobre cenários
 Lucas Lopes | 2.0 | 08/10/2020 | Cenários: C1,C2 e C3
-
+Wagner Martins | 2.1 | 09/10/2020 | Cenários: C4, C5 e C6
 
 
 ## Referências
