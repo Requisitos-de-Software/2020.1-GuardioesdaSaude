@@ -20,7 +20,7 @@ Guardiões da Saúde é uma aplicativo mobile com parceria da ProEpi (Associaç�
 
 ## Equipe 
 
-<table >
+<table align="center">
   <thead>
     <th>Nome</th>
     <th>GitHub</th>
