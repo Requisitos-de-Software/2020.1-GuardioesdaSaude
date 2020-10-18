@@ -130,6 +130,47 @@ Atores|Usuário|
 |**Exceção**|
 |Internet não funcionar<br>Servidor indisponível|
 
+## [C7](#c7)
+
+**Visualizar notícias**
+
+|Objetivo  |
+ -----------   |
+|Visualizar noticias relacionadas ao contexto da Saúde|
+|**Contexto** |
+|Local:Tela principal na seção “Notícias”<br>Pré-condição: Acesso a internet , Usuário cadastrado, app instalado<br>Pós-condição: Tela aberta referente a notícias|
+|**Atores**|
+|Usuários do Guardiões da saúde|
+|**Recursos**|
+|Conta no Guardiões da Saúde <br>Usuário busca por notícias antigas<br>Acesso a um smartphone|
+|**Episódios**|
+|Usuário clica na opção de notícias na tela principal<br>Usuário busca por notícias antigas<br>Usuário clica nas noticias sendo redirecionado na pagina do Twitter referente aos guardiões|
+|**Restrição**|
+|Aplicativo instalado<br>Usuário logado|
+|**Exceção**|
+|Internet não funcionar<br>Usuário não cadastrado<br>Email invalido|
+
+## [C8](#c8)
+
+**Visualizar Dicas**
+
+|Objetivo  |
+ -----------   |
+|Visualizar Dicas relacionadas ao contexto da Saúde|
+|**Contexto** |
+|Local:Tela principal na seção  “Dicas”<br>Pré-condicão: Acesso a internet , Usuário cadastrado, app instalado<br>Pós-condição: Tela aberta referente a Dicas|
+|**Atores**|
+|Usuários do Guardiões da saúde|
+|**Recursos**|
+|Conta no Guardiões da Saúde <br>Usuário busca por dicas relacionadas a saúde<br>Acesso a um smartphone|
+|**Episódios**|
+|Usuário tem a dúvida sobre farmácias ,hospitais na região e busca a aba Dicas para informações.<br>O usuário tem qualquer dúvida relacionada a Covid-19 como uso de máscaras ,prevenção,  suspeita de infecção,etc,  e busca a seção Dicas do app.<br>Usuário busca por apoio psicológico durante a pandemia e procura ajuda na seção Dicas.<br>Usuário clica nas noticias sendo redirecionado na pagina do Twitter referente aos guardiões.|
+|**Restrição**|
+|Aplicativo instalado<br>Usuário logado|
+|**Exceção**|
+|Internet não funcionar<br>Usuário não cadastrado<br>Email invalido|
+
+
 ## Histórico de revisões
 
 Autor | Versão | Data(dd/mm/aaaa) | Descrição 
