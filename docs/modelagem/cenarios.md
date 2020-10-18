@@ -178,6 +178,7 @@ Autor | Versão | Data(dd/mm/aaaa) | Descrição
 Wagner Martins | 1.0 | 01/10/2020 | Informações sobre cenários
 Lucas Lopes | 2.0 | 08/10/2020 | Cenários: C1,C2 e C3
 Wagner Martins | 2.1 | 09/10/2020 | Cenários: C4, C5 e C6
+Murilo Schiler | 2.2 | 18/10/2020 | Cenários:c7 e c8
 
 
 ## Referências
