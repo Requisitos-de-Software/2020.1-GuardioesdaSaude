@@ -11,7 +11,7 @@ pages:
     - Priorização:
         - 'elicitacao/priorizacao/MoSCow.md'
         - 'elicitacao/priorizacao/FirstThingsFirst.md'
-  - Modelagem(tradicional):
+  - Modelagem:
     - Cenários: 'modelagem/cenarios.md'
     - Léxicos: 'modelagem/lexicos.md'
     - Diagramas de Casos de Uso: 'modelagem/dcu.md'
