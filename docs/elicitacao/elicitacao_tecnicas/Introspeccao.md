@@ -60,6 +60,7 @@ Autor | Versão | Data(dd/mm/aaa) | Descrição
 ---- | ----------- | ------ | ---------
 [Murilo Schiler Lopes Santana](https://github.com/muriloschiler) | 0.1 | 27/09/2020 | Adicionando a pagina sobre instropeccao
 [Thiago Luiz de Souza Gomes](https://github.com/thiagomesUNB) | 0.2 | 27/09/2020 | Adicionando Requisistos Elicitados em tabelas com IDs.
+
 ## Referências
 
 <ul>
