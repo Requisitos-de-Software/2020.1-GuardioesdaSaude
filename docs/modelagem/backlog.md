@@ -27,7 +27,149 @@ São escritas no formato:
 
 ## Backlog - Guardiões da Saúde
 
-to do
+<table>
+    <thead>
+        <tr>
+            <th>Épico</th>
+            <th>Feature</th>
+            <th>ID</th>
+            <th>História de Usuário</th>
+            <th>Prioridade</th>
+        </tr>
+    </thead>
+    <tbody >
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4">Acesso</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Cadastro</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US01</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero cadastrar um email e senha para                     acessar o aplicativo.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Login</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US02</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero logar usando o email e senha para                   acessar o aplicativo.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US03</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder recuperar senha caso eu a esqueça             para acessar o aplicativo.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Logout</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US04</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder fazer logout para sair da                     conta</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+        </tr>
+        <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="11">Perfil</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="11">Edição de perfil</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US05</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder alterar meu nome no perfil para               mantê-lo atualizado ou corrigí-lo em caso de erro no cadastro.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US06</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder alterar meu gênero para                       manter as informações atualizadas.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US07</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero ppoder alterar minha cor para                       adicionar a informação ou corrigir possível erro no cadastro.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US08</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder alterar minha data de                         nascimento para adicionar a informação ou corrigir possível erro no cadastro.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US09</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário poder alterar meu país de origem para                     adicionar a informação ou corrigir possível erro no cadastro.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US10</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder informar se sou integrante de                 alguma instituição de ensino para adicionar a informação ou corrigir possível erro no cadastro.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US11</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder informar/alterar o país da                   minha universidade para atualizar informação sobre meu local de estudo.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US12</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder poder informar/alterar o estado               da minha universidade para atualizar informação sobre meu local de estudo.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+          </tr>
+         <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US13</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder informar/alterar a                           cidade/município da minha universidade para atualizar informação sobre meu local de estudo.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+         </tr>
+         <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US14</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder informar/alterar o nome da                   minha universidade para atualizar informação sobre minha instituição de ensino.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+         </tr>
+         <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US15</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder informar/alterar minha                       matrícula para atualizar informação sobre minha instituição de ensino.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+        </tr>
+        <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4">Informe</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="4">Relato</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US16</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder relatar que estou bem para                   salvar no histórico e ajudar a comunidade.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US17</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder relatar que estou mal para                   salvar no histórico e alertar a comunidade.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US18</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder indicar meus sintomas caso                   esteja mal para saber se possívelmente estou com covid-19.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+          </tr>
+          <tr>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US19</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero receber alerta do meu status de saúde               nos últimos 7 dias para acompanhar a evolução dos sintomas.</td>
+              <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+          </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="5">Mapa</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"rowspan="5">Marcações</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US20</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder ter marcações visuais na cor verde             para saber que a região está segura.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US21</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder ter marcações visuais na cor                   amarela para saber que a região tem risco de contágio.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US22</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder ter marcações visuais na cor                   vermelha para saber que a região tem alto risco de contágio.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alta</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US23</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder olhar quantas pessoas estão com               sintomas de covid-19 através das marcações para saber qual o risco de contágio.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US24</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu usuário quero poder olhar qual a porcentagem de                   sintomáticos através das marcações para saber qual o risco de contágio .</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Média</td>
+        </tr>
+    </tbody>
+</table>
 
 
 
@@ -36,6 +178,7 @@ to do
 Autor | Versão | Data(dd/mm/aaa) | Descrição
 -|-|-|-
 Wagner Martins | 1.0 | 26/10/2020 | Adição de informações sobre o Backlog e Histórias de Usuário
+Kalebe Lopes   | 2.0 | 26/10/2020 | Adição da tabela, backlog e user histories
 
 ## Referências
 
