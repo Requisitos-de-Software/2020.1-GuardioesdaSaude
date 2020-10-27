@@ -52,7 +52,31 @@ Por fim, para a análise dos softgoals, são atribuídos rótulos que definem o 
 </p>
 
 
+## NFR's
 
+### NFR de Usabilidade
+
+<p align='center'>Figura 01 - NFR Usabilidade</p>
+
+![Usabilidade](https://user-images.githubusercontent.com/38164895/97350801-aabece80-186f-11eb-9d8b-8188c2960635.png)
+
+<p align='center'>Fonte: Autor</p>
+
+### NFR de Portabilidade
+
+<p align='center'>Figura 02 - NFR Usabilidade</p>
+
+![Portabilidade](https://user-images.githubusercontent.com/38164895/97351460-8c0d0780-1870-11eb-842b-dedc4df1ec95.png)
+
+<p align='center'>Fonte: Autor</p>
+
+### NFR de Disponibilidade
+
+<p align='center'>Figura 03 - NFR Disponibilidade</p>
+
+![Disponibilidade](https://user-images.githubusercontent.com/38164895/97351511-a21ac800-1870-11eb-8e6e-15d0ca5cd777.png)
+
+<p align='center'>Fonte: Autor</p>
 
 
 ## Histórico de Revisões 
@@ -60,6 +84,7 @@ Por fim, para a análise dos softgoals, são atribuídos rótulos que definem o 
 Autor | Versão | Data(dd/mm/aaa) | Descrição
 -|-|-|-
 Wagner Martins | 1.0 | 26/10/2020 | Adição das informações sobre o NFR Framework
+Lucas Lopes Xavier | 1.1 | 27/10/2020 | Adição dos 3 primeiros NFR's 
 
 ## Referências
 
