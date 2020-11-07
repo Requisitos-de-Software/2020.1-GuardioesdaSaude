@@ -1,6 +1,6 @@
 # Verificação - Léxicos
 
-**Verificação do artefato**: [Léxicos](../modelagem/lexicos.md)
+## **Verificação do artefato**: [Léxicos](../modelagem/lexicos.md)
 
 <p align="justify">Para a verificação dos léxicos foi escolhida a estratégia de inspeção por checklist, por ser simples, objetiva e a mais eficaz em comparação às outras neste contexto.
 </p>
