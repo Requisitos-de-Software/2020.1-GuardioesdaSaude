@@ -19,6 +19,9 @@ pages:
     - Especificação Suplementar: 'modelagem/es.md'
     - NFR Framework: 'modelagem/NFR.md'
     - Backlog: 'modelagem/backlog.md'
+  - Análise:
+    - Verificação:
+        - Léxicos: 'verificacao-e-validacao/lexico.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
