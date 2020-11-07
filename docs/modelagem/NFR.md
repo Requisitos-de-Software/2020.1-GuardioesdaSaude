@@ -56,6 +56,11 @@ Por fim, para a análise dos softgoals, são atribuídos rótulos que definem o 
 
 ### NFR Geral
 
+<p align='center'>Figura 01 - NFR Usabilidade</p>
+
+![Geral](https://user-images.githubusercontent.com/47457792/98441803-66d59000-20df-11eb-9881-362e37436f17.png)
+<p align='center'>Fonte: Autor</p>
+
 ### NFR de Usabilidade
 
 <p align='center'>Figura 01 - NFR Usabilidade</p>
@@ -82,7 +87,10 @@ Por fim, para a análise dos softgoals, são atribuídos rótulos que definem o 
 
 ### NFR Desempenho
 
+<p align='center'>Figura 03 - NFR Disponibilidade</p>
 
+![Desempenho](https://user-images.githubusercontent.com/47457792/98441756-28d86c00-20df-11eb-932c-3f050746a95f.png)
+<p align='center'>Fonte: Autor</p>
 
 ## Histórico de Revisões 
 
