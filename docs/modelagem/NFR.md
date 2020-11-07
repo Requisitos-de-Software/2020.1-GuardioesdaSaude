@@ -54,6 +54,8 @@ Por fim, para a análise dos softgoals, são atribuídos rótulos que definem o 
 
 ## NFR's
 
+### NFR Geral
+
 ### NFR de Usabilidade
 
 <p align='center'>Figura 01 - NFR Usabilidade</p>
@@ -78,6 +80,9 @@ Por fim, para a análise dos softgoals, são atribuídos rótulos que definem o 
 
 <p align='center'>Fonte: Autor</p>
 
+### NFR Desempenho
+
+
 
 ## Histórico de Revisões 
 
@@ -85,7 +90,7 @@ Autor | Versão | Data(dd/mm/aaa) | Descrição
 -|-|-|-
 Wagner Martins | 1.0 | 26/10/2020 | Adição das informações sobre o NFR Framework
 Lucas Lopes Xavier | 1.1 | 27/10/2020 | Adição dos 3 primeiros NFR's 
-
+Murilo Schiler |1.2| 07/09/2020 | Adicao NFR Geral e NFR Desempenho
 ## Referências
 
 * SILVA, **Reinaldo Antônio da. NFR4ES:Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados**. Recife,  2019.
