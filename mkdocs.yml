@@ -22,6 +22,7 @@ pages:
   - Análise:
     - Verificação:
         - Léxicos: 'verificacao-e-validacao/lexico.md'
+        - Backlog: 'verificacao-e-validacao/backlog.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
