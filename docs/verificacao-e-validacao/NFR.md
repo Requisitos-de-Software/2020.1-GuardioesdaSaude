@@ -1,8 +1,8 @@
-# Verificação - Cenários
+# Verificação - NFR
 **Verificação do artefato**: [NFR](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/NFR/)
 
 Para a verificação do NFR Framework foi escolhida a estratégia de inspeção por checklist, por ser simples, objetiva e a mais eficaz em comparação às outras neste contexto.
-Para o cenários, foram criadas perguntas pertinentes ao artefato a ser verificado.
+Para o NFR, foram criadas perguntas pertinentes ao artefato a ser verificado.
 
 
 
