@@ -26,5 +26,5 @@ Os erros encontrados foram:
 
 | Autor | Versão | Data(dd/mm/aaa) | Descrição
 |-|-|-|-
-|Lucas Lopes | 1.0 | 08/11/2020 | Verificação dos Cenários
+|Lucas Lopes | 1.0 | 08/11/2020 | Verificação do NFR Framework
 
