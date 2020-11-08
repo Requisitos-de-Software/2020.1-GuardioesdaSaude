@@ -23,6 +23,7 @@ pages:
     - Verificação:
         - Léxicos: 'verificacao-e-validacao/lexico.md'
         - Backlog: 'verificacao-e-validacao/backlog.md'
+        - Cenários: 'verificacao-e-validacao/cenarios.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
