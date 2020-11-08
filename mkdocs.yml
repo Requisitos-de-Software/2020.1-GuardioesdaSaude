@@ -25,6 +25,7 @@ pages:
         - Backlog: 'verificacao-e-validacao/backlog.md'
         - Cenários: 'verificacao-e-validacao/cenarios.md'
         - NFR: 'verificacao-e-validacao/NFR.md'
+        - Especificação suplementar: 'verificacao-e-validacao/ESP.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
