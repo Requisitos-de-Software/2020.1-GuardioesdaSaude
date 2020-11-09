@@ -18,8 +18,8 @@ A verificação do storytelling consiste no resultado positivo ou negativo de ca
 
 ## Conclusão
 
-A história contada possibilita uma correta coleta de fatos e requisitos sobre o app Guardiões da Saúde. 
-Seria bom se houvesse mais de uma história para facilitar a elicitação dos requisitos.
+* A história contada possibilita uma correta coleta de fatos e requisitos sobre o app Guardiões da Saúde. 
+* Seria bom se houvesse mais de uma história para facilitar a elicitação dos requisitos.
 
 <br>
 
