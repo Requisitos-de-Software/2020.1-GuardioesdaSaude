@@ -1,9 +1,11 @@
-# Verificação - Questionário
+# Verificação - Introspecção
 **Verificação do artefato**: [Introspecção](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/elicitacao/elicitacao_tecnicas/Introspeccao/)
 
 Para a verificação da introspecção foi escolhida a estratégia de inspeção por checklist, por ser simples, objetiva e a mais eficaz em comparação às outras neste contexto.
 
 A verificação da introspecção consiste no resultado positivo ou negativo de cada uma das questões elaboradas para o checklist. 
+
+<br>
 
 ## Verificação Introspecção
 
@@ -12,10 +14,14 @@ A verificação da introspecção consiste no resultado positivo ou negativo de 
 
 <p align='center'>Figura 01 - Introspecção. </p> 
 
+<br>
+
 ## Conclusão
 
 O principal erro encontrado é a falta de uma lista contendo todos os requisitos elicitados, dificultando a visualização dos mesmos.
 A solução seria listá-los da seguinte forma: 
+
+<br>
 
 ## Requisitos elicitados
 
@@ -45,12 +51,15 @@ A solução seria listá-los da seguinte forma:
 | 22 | Deve ser possível editar o nome que ficará disponível no perfil.
 | 23 | Deve ser possível mudar e-mail e senha referente a conta.
 
+<br>
+
 ## Histórico de Revisões
 
 | Autor | Versão | Data (dd/mm/aaa) | Descrição
 |-------|--------|------------------|----------
 |Kalebe Lopes | 1.0 | 08/11/2020 | Verificação da Introspeccao
 
+<br>
 
 ## Referências
 
