@@ -5,6 +5,8 @@ Para a verificação do questionário foi escolhida a estratégia de inspeção 
 
 A verificação dos questionários consiste no resultado positivo ou negativo de cada uma das questões elaboradas para o checklist. 
 
+<br>
+
 ## Verificação Questionário
 
 ![questionario](https://user-images.githubusercontent.com/44823367/98487682-25d69c00-2203-11eb-8198-2f2bd1497640.png)
@@ -12,9 +14,13 @@ A verificação dos questionários consiste no resultado positivo ou negativo de
 
 <p align='center'>Figura 01 - Questionário. </p> 
 
+<br>
+
 ## Conclusão
 
 As questões utilizadas possibilitam uma correta coleta de fatos sobre o app Guardiões da Saúde.
+
+<br>
 
 ## Histórico de Revisões
 
@@ -22,6 +28,7 @@ As questões utilizadas possibilitam uma correta coleta de fatos sobre o app Gua
 |-------|--------|------------------|----------
 |Kalebe Lopes | 1.0 | 08/11/2020 | Verificação do Questionário
 
+<br>
 
 ## Referências
 
