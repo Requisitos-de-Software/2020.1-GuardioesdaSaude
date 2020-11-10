@@ -11,3 +11,11 @@
 ## 3 - Cenários, Léxico, Casos de Uso e Especificação Suplementar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EqfqlWMQ7-Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 4 - Modelagem Ágil - Histórias de Usuário, Backlog e NFR Framework
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bjxiw-hQoCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 5 - Verificação e Validação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4YJk4HlJxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
