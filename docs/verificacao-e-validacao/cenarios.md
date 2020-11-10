@@ -4,13 +4,6 @@
 Para a verificação do cenários foi escolhida a estratégia de inspeção por checklist, por ser simples, objetiva e a mais eficaz em comparação às outras neste contexto.
 Para o cenários, foram criadas perguntas pertinentes ao artefato a ser verificado.
 
-## Verificação geral
-
-<p align='center'>Figura 01 - Verificação geral</p> 
-
-![image](https://user-images.githubusercontent.com/38164895/98469074-56471780-21bc-11eb-8dad-a79c3fc25eef.png)
-
-<p align='center'>Fonte: Autor</p>
 
 ## Verificação dos cenários
 
