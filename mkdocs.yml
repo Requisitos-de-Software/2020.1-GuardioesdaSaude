@@ -19,6 +19,17 @@ pages:
     - Especificação Suplementar: 'modelagem/es.md'
     - NFR Framework: 'modelagem/NFR.md'
     - Backlog: 'modelagem/backlog.md'
+  - Análise:
+    - Verificação:
+        - Léxicos: 'verificacao-e-validacao/lexico.md'
+        - Backlog: 'verificacao-e-validacao/backlog.md'
+        - Cenários: 'verificacao-e-validacao/cenarios.md'
+        - NFR: 'verificacao-e-validacao/NFR.md'
+        - Casos de Uso: 'verificacao-e-validacao/CasosdeUso.md'
+        - Especificação suplementar: 'verificacao-e-validacao/ESP.md'
+        - Introspecção: 'verificacao-e-validacao/introspeccao.md'
+        - Questionário: 'verificacao-e-validacao/questionario.md'
+        - Storytelling: 'verificacao-e-validacao/story.md.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
