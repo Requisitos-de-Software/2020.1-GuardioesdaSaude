@@ -1,5 +1,5 @@
 # Verificação - Cenários
-**Verificação do artefato**: [Cenários](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/cenarios/)
+**Verificação do artefato**: [Cenários](../modelagem/cenarios.md)
 
 Para a verificação do cenários foi escolhida a estratégia de inspeção por checklist, por ser simples, objetiva e a mais eficaz em comparação às outras neste contexto.
 Para o cenários, foram criadas perguntas pertinentes ao artefato a ser verificado.
