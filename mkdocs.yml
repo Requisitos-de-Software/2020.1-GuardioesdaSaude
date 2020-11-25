@@ -31,6 +31,7 @@ pages:
         - Questionário: 'verificacao-e-validacao/questionario.md'
         - Storytelling: 'verificacao-e-validacao/story.md.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
+  - Aplicação: 'App.md'
 extra_css: 
   - assets/css/extra.css
 theme:
