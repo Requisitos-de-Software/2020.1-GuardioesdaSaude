@@ -59,7 +59,9 @@ Luiz é o secretáro de saúde de Brasília e, juntamente com sua equipe, precis
 </table>
 <br/> 
 
-Pedro tem 22 anos e é estudante de engenharia de software na Universidade de Brasília. <br> <br> Ficou sabendo durante a pandemia que poderia ajudar no controle da saúde dos alunos, feito por sua universidade, apenas informando o seu estado de saúde todos os dias. Além disso, soube também que a universidade recompensará com 4 créditos todos os alunos que participarem durante o semestre e tiverem frequência maior que 75%. <br> <br> Pedro não perdeu tempo e logo se cadastrou no app, está ajudando a sua universidade com seus dados e logo será recompensado com 4 créditos.           
+Pedro tem 22 anos e é estudante de engenharia de software na Universidade de Brasília. <br> <br> Ficou sabendo durante a pandemia que poderia ajudar no controle da saúde dos alunos, feito por sua universidade, apenas informando o seu estado de saúde todos os dias. Além disso, soube também que a universidade recompensará com 4 créditos todos os alunos que participarem durante o semestre e tiverem frequência maior que 75%. <br> <br> Pedro não perdeu tempo e logo se cadastrou no app, está ajudando a sua universidade com seus dados e logo será recompensado com 4 créditos. <br>         
+
+<br>
 
 ## **Requisitos**<br/><br/> 
 
