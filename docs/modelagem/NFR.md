@@ -74,10 +74,26 @@ Por fim, para a análise dos softgoals, são atribuídos rótulos que definem o 
 
 <p align='center'>Figura 03 - NFR Disponibilidade</p>
 
-![Disponibilidade](https://user-images.githubusercontent.com/38164895/97351511-a21ac800-1870-11eb-8e6e-15d0ca5cd777.png)
+![Untitled Diagram ](https://user-images.githubusercontent.com/38164895/100267606-77d12e80-2f32-11eb-9b32-97b696e162cc.png)
 
 <p align='center'>Fonte: Autor</p>
 
+
+### NFR GERAL
+
+<p align='center'>Figura 04 - NFR Geral</p>
+
+![image](https://user-images.githubusercontent.com/38164895/100265902-b0bbd400-2f2f-11eb-9dfb-15703cf231e7.png)
+
+<p align='center'>Fonte: Autor</p>
+
+### NFR de Desempenho
+
+<p align='center'>Figura 05 - NFR de Desempenho </p>
+
+![image](https://user-images.githubusercontent.com/38164895/100265957-c8935800-2f2f-11eb-8470-1c62d48c7083.png)
+
+<p align='center'>Fonte: Autor</p>
 
 ## Histórico de Revisões 
 
@@ -85,6 +101,8 @@ Autor | Versão | Data(dd/mm/aaa) | Descrição
 -|-|-|-
 Wagner Martins | 1.0 | 26/10/2020 | Adição das informações sobre o NFR Framework
 Lucas Lopes Xavier | 1.1 | 27/10/2020 | Adição dos 3 primeiros NFR's 
+Murilo | 1.2 | 25/11/2020 | Adição dos ultimos 2 NFR'S |
+Lucas Lopes Xavier | 1.3 | 25/11/2020 | Correção após a verificação | 
 
 ## Referências
 
