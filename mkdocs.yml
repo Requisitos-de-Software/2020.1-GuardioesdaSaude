@@ -31,7 +31,8 @@ pages:
         - Questionário: 'verificacao-e-validacao/questionario.md'
         - Storytelling: 'verificacao-e-validacao/story.md.md'
   - Pós-Rastreabilidade: 
-        - Forward-From: 'pos-rastreabilidade/forward.md'      
+        - Forward-From: 'pos-rastreabilidade/forward.md'
+        - Backward-From: 'pos-rastreabilidade/backward.md'        
   - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
