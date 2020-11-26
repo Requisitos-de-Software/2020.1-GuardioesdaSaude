@@ -1,15 +1,22 @@
-# backward-From
+# Matriz Backward-From
 
 ## Objetivo
 Este documento visa ligar todos os requisitos elicitados durante a matéria de Requisito de Software aos seus respectivos métodos de elicitação e modelagem, utilizando o método de rastreabilidade Backward-From.
 
-- RF: Requisito Funcional
-- RNF: Requisito Não Funcional
-- QTN: Questionario
-- INT: Instrospecção
-- ST: Story Teling
+<br>
 
-## Requisitos Funcionais
+## Legenda
+| Sigla | Descricao | 
+| -- | --------- |
+| QTN | Questionário |
+| INT | Instrospecção |
+| ST | Storytelling |
+| RF | Requisito Funcional |
+| RNF | Requisito Não Funcional |
+
+<br>
+
+## Matriz de Requisitos Funcionais
 
 | ID | Descricao | Origem | Elos |
 | -- | --------- | ------ | ---- |
@@ -50,8 +57,9 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | 37 |	O sistema deve exibir um mapa mostrando as áreas mais afetadas. |  [ST](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/elicitacao/elicitacao_tecnicas/storytelling/)| EF37 |
 | 38 |		O sistema poderia exibir a faixa etária dos infectados. |  [ST](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/elicitacao/elicitacao_tecnicas/storytelling/)| EF38 |
 
+<br>
 
-## Requisitos não funcionais
+## Matriz de Requisitos não funcionais
 
 | ID | Descrição | Origem | Elos |
 | ---- | --- | --- | --- |
@@ -64,6 +72,7 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | 24 | Deve existir um sistema de recompensa para outras universidades. | [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/) | ENF07 |
 | 30 | Deve ser possível reportar bugs, e problemas técnicos pertinente ao sistema. | [QTN](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/questionario/) | ENF08 |
 
+<br>
 
 ## **Histórico de revisões**
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
