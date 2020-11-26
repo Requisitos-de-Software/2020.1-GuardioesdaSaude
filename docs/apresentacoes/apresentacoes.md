@@ -19,3 +19,7 @@
 ## 5 - Verificação e Validação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P4YJk4HlJxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 6 - Apresentação final
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V1kXf4BXsy0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
