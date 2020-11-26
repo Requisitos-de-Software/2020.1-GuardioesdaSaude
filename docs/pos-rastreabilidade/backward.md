@@ -59,3 +59,17 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | -- | --------- | ------ | ---- |
 | 01 | Ter uma tela agradável, limpa e intuitiva com as opções de cadastro e Login. |  [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| EF01 |
 | 02 | Acesso fácil às diversas telas do app. |  [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| EF02 |
+
+
+## Requisitos não funcionais
+
+| ID | Descrição | Origem | Elos |
+| ---- | --- | --- | --- |
+| 1 | Ter uma tela agradável, limpa e intuitiva com as opções de cadastro e Login | [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| EF01 |
+| 2 | Acesso fácil às diversas telas do app |  [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| EF02 |
+| 16 | O Mapa deverá informar de maneira clara as regiões e cidades contidas. | | |
+| 12 | O sistema deve garantir que o usuário responda apenas uma vez a pergunta. |  |  |
+| 17 | O sistema deverá nomear as ruas,vias e rodovias mostradas no mapa. |  |  |
+| 19 | Ao se clicar em uma dessas porções deverá ser informado ao usuário as quantidades de pessoas ,que responderam ao app, e a porcentagem de sintomáticos. |  |  |
+| 24 | Deve existir um sistema de recompensa para outras universidades. |  |  |
+| 30 | Deve ser possível reportar bugs, e problemas técnicos pertinente ao sistema. | | |
