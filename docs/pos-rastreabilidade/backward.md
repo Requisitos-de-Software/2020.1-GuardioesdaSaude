@@ -16,6 +16,17 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 
 <br>
 
+## Categorias do Meta-Modelo
+
+|Categoria|Descrição|
+|:-:|:-:|
+|Ambiental|informações oriundas do contexto no qual a organização está inserida|
+|Desenvolvimento|informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros)|
+|Gerencial|informações que auxiliam a gerência do projeto|
+|Organizacional|informações pertencentes à organização (missão, objetivos e estratégias)|
+
+<br>
+
 ## Matriz de Requisitos Funcionais
 
 | ID | Descricao | Origem | Elos |
@@ -77,7 +88,7 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 ## Elos Funcionais 
 | ID | Categoria | Elementos Rastreáveis | Elos |
 | ---- | --- | --- | --- |
-| **EF01** | Desenvolvimento | [C2](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/cenarios/#c2), [UC04](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/dcu/#uc4), [L27](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/lexicos.md#l27---login), [E01](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/backlog.md), [F02](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/backlog.md)	| Representação: [C2](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/cenarios/#c2) representa [UC04](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/dcu/#uc4); [C2](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/cenarios/#c2) representa [L27](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/lexicos.md#l27---login), Satisfação [E01](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/backlog.md) satisfaz [F02](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/backlog.md) |
+| **EF01** | Desenvolvimento | [C2](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/cenarios/#c2), [UC04](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/dcu/#uc4), [L27](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/lexicos.md#l27---login), [E01](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/backlog.md), [F02](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/backlog.md)	| Representação: [C2](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/cenarios/#c2) representa [UC04](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/dcu/#uc4); [C2](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/cenarios/#c2) representa [L27](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/lexicos.md#l27---login), <br> Satisfação: [E01](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/backlog.md) satisfaz [F02](https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude/blob/master/docs/modelagem/backlog.md) |
 
 
 ## **Histórico de revisões**
