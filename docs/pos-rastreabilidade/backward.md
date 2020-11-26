@@ -51,25 +51,22 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | 38 |		O sistema poderia exibir a faixa etária dos infectados. |  [ST](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/elicitacao/elicitacao_tecnicas/storytelling/)| EF38 |
 
 
-
-
-
-## Requisitos Não-Funcionais
-| ID | Descricao | Origem | Elos |
-| -- | --------- | ------ | ---- |
-| 01 | Ter uma tela agradável, limpa e intuitiva com as opções de cadastro e Login. |  [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| EF01 |
-| 02 | Acesso fácil às diversas telas do app. |  [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| EF02 |
-
-
 ## Requisitos não funcionais
 
 | ID | Descrição | Origem | Elos |
 | ---- | --- | --- | --- |
-| 1 | Ter uma tela agradável, limpa e intuitiva com as opções de cadastro e Login | [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| EF01 |
-| 2 | Acesso fácil às diversas telas do app |  [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| EF02 |
-| 16 | O Mapa deverá informar de maneira clara as regiões e cidades contidas. | | |
-| 12 | O sistema deve garantir que o usuário responda apenas uma vez a pergunta. |  |  |
-| 17 | O sistema deverá nomear as ruas,vias e rodovias mostradas no mapa. |  |  |
-| 19 | Ao se clicar em uma dessas porções deverá ser informado ao usuário as quantidades de pessoas ,que responderam ao app, e a porcentagem de sintomáticos. |  |  |
-| 24 | Deve existir um sistema de recompensa para outras universidades. |  |  |
-| 30 | Deve ser possível reportar bugs, e problemas técnicos pertinente ao sistema. | | |
+| 1 | Ter uma tela agradável, limpa e intuitiva com as opções de cadastro e Login | [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| ENF01 |
+| 2 | Acesso fácil às diversas telas do app |  [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/)| ENF02 |
+| 16 | O Mapa deverá informar de maneira clara as regiões e cidades contidas. | [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/) | ENF03 |
+| 12 | O sistema deve garantir que o usuário responda apenas uma vez a pergunta. | [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/) | ENF04 |
+| 17 | O sistema deverá nomear as ruas, vias e rodovias mostradas no mapa. | [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/) | ENF05 |
+| 19 | Ao se clicar em uma dessas porções deverá ser informado ao usuário as quantidades de pessoas, que responderam ao app e a porcentagem de sintomáticos. | [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/) | ENF06 |
+| 24 | Deve existir um sistema de recompensa para outras universidades. | [INT](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/Introspeccao/) | ENF07 |
+| 30 | Deve ser possível reportar bugs, e problemas técnicos pertinente ao sistema. | [QTN](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude//elicitacao/elicitacao_tecnicas/questionario/) | ENF08 |
+
+
+## **Histórico de revisões**
+Autor | Versão | Data(dd/mm/aaa) | Descrição 
+---- | ----------- | ------ | ---------
+[Murilo Schiler](https://github.com/muriloschiler) | 0.1 | 25/11/2020 | Criação do documento|
+[Kalebe Lopes](https://github.com/KalebeLopes) | 0.2 | 26/11/2020 | Atualização documento |
