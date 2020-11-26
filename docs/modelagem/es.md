@@ -28,7 +28,7 @@ Este documento apresenta especificações dos requisitos não funcionais orienta
 <br/>
 
 ## Usabilidade
-A interface deve ser amigável ao usuário proporcinando a ele uma fácil interação sem que haja dificuldades ao utilizar qualquer funcionalidade. Além disso, o usuário poderá enviar mensagens de error oara a equipe de desenvolvimento.
+A interface deve ser amigável ao usuário proporcinando a ele uma fácil interação sem que haja dificuldades ao utilizar qualquer funcionalidade. Além disso, o usuário poderá enviar mensagens de erro para a equipe de desenvolvimento.
 
 * A interface gráfica deve ser agradável, limpa e intuitiva.
 * O sistema deverá possibilitar acesso fácil às diversas telas do aplicativo.
@@ -43,6 +43,8 @@ A aplicação deverá apresentar informações corretas e concretas sobre os dad
 * O Mapa deverá informar informações corretas sobre as regiões e cidades contidas.
 * O Mapa deverá mostrar a quantidade correta de pessoas doentes por região.
 * O sistema deve garantir que o usuário informe seu estado de saúde somente uma vez ao dia.
+* O sistema deve responder as ações do usuário com feedback.
+* O sistema deve se recuperar de falhas, caso alguma ocorra.
 <br/>
 
 ## Desempenho
@@ -50,6 +52,7 @@ O sistema deverá interagir da forma mais rápida possível com o usuário, evit
 
 * O sistema deverá informar rapidamente ao usuário a quantidade de pessoas que responderam ao app e a porcentagem de sintomáticos.
 * As informações sobre os sintomáticos deverão ir aparecendo para o usuário conforme ele for navegando pelo mapa sem que haja demora.
+* O sistema deve ter um curto tempo de resposta às ações do usuário, dentro de 400ms.
 <br/>
 
 ## Suportabilidade
@@ -87,6 +90,12 @@ O aplicativo Guardiões da Saúde deverá ser disponibilizado para as plataforma
       <td>Kalebe Lopes</td>
       <td>Adição da especificação suplementar</td>
       <td>0.2</td>
+    </tr>
+    <tr>
+      <td>25/11/2020</td>
+      <td>Wagner Martins</td>
+      <td>Correção conforme a verificação do artefato</td>
+      <td>1.0</td>
     </tr>
   </tbody>
 </table>
