@@ -20,6 +20,7 @@ pages:
     - NFR Framework: 'modelagem/NFR.md'
     - Backlog: 'modelagem/backlog.md'
   - Análise:
+    - Validação: 'verificacao-e-validacao/validacao/validacaoinf.md'
     - Verificação:
         - Léxicos: 'verificacao-e-validacao/lexico.md'
         - Backlog: 'verificacao-e-validacao/backlog.md'
