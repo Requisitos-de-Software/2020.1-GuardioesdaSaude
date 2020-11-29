@@ -95,7 +95,7 @@
 | **Descrição/Objetivo** | Obter informações sobre os datas e as estatísticas dos relatos. |
 |------|-------|
 | **Ator principal**  | Usuário logado no sistema |
-| **Fluxo principal** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Diário. |
+| **Fluxo principal** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Diário.<br>Visualiza em verde os dias que ele registrou que estava bem.<br>O usuário arrasta o calendário pro lado direito para visualizar as estatísticas |
 | **Fluxo de exceção** | Servidor está indisponível. |
 
 <br>
@@ -106,7 +106,7 @@
 | **Descrição/Objetivo** | Visualizar o mapa e os infectados da região  |
 |------|-------|
 | **Ator principal**  | Usuário logado no sistema |
-| **Fluxo principal** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Mapa.<br>Sistema acessa o mapa com base na localização do usuário.<br>Usuário seleciona a região que deseja visualizar as informações. |
+| **Fluxo principal** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Mapa.<br>Sistema acessa o mapa com base na localização do usuário.<br>Usuário amplia e desamplia o mapa conforme ele deseje visualizar a situação de determinada região que é demonstrada por circulos coloridos. |
 | **Fluxo de exceção 1** | Aplicativo sem acesso a localização. |
 | **Fluxo de exceção 2** | Servidor está indisponível. |
 
@@ -120,6 +120,7 @@
 | **Ator principal**  | Usuário logado no sistema |
 | **Fluxo principal** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Dicas.<br>Sistema exibe os tópicos das dicas de saúde.<br>Usuário seleciona o tópico que deseja. |
 | **Fluxo Alternativo 1** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Dicas.<br>Sistema exibe os tópicos das dicas de saúde.<br>Usuário seleciona o tópico que deseja.<br>Usuário clica no botão Saiba Mais para ser redirecionado para o site oficial da matéria. |
+| **Fluxo Alternativo 2** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Dicas.<br>Sistema exibe os tópicos das dicas de saúde.<br>Usuário seleciona o tópico que deseja.<br>Usuário é redirecionado para o Google Maps para encontrar o local do tópico seja ele farmácias ou instituições de saúde |
 | **Fluxo de exceção 1** | Site oficial da matéria fora do ar. |
 | **Fluxo de exceção 2** | Servidor está indisponível. |
 
@@ -132,8 +133,8 @@
 |------|-------|
 | **Ator principal**  | Usuário logado no sistema |
 | **Ator secundário**  | Twitter |
-| **Fluxo principal** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Notícias.<br>Sistema exibe as últimas notícias do feed no Twitter. |
-| **Fluxo Alternativo 1** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Notícias.<br>Sistema exibe as últimas notícias do feed no Twitter.<br>Usuário clica na notícia desejada para ser redirecionado para o Twitter. |
+| **Fluxo principal** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Notícias.<br>Sistema exibe as últimas notícias do feed no Twitter.<br>O usuário pode escolher visualizar somente as notícias que mencionam @appguardioes ou somente aquelas que mencionam @guardioesunb |
+| **Fluxo Alternativo 1** | Usuário abre o aplicativo.<br>Usuário faz login com email e senha.<br>Usuário clica no botão Notícias.<br>Sistema exibe as últimas notícias do feed no Twitter.<br>O usuário pode escolher visualizar somente as notícias que mencionam @appguardioes ou somente aquelas que mencionam @guardioesunb<br>Usuário clica na notícia desejada para ser redirecionado para o Twitter. |
 | **Fluxo de exceção 1** | Servidor está indisponível. |
 
 <br>
@@ -145,6 +146,7 @@
 |------|-------|-------|-------
 | Wagner Martins | 1.0 | 07/10/2020 | Adição de informações sobre casos de uso e do diagrama
 | Kalebe Lopes   | 2.0 | 08/10/2020 | Adição das especificações de casos de uso
+| Thiago Luiz    | 3.0 | 25/11/2020 | Corrigindo os tópicos UC06,UC07,UC08 
 
 ## Referências
 

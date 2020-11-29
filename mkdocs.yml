@@ -20,6 +20,7 @@ pages:
     - NFR Framework: 'modelagem/NFR.md'
     - Backlog: 'modelagem/backlog.md'
   - Análise:
+    - Validação: 'verificacao-e-validacao/validacao/validacaoinf.md'
     - Verificação:
         - Léxicos: 'verificacao-e-validacao/lexico.md'
         - Backlog: 'verificacao-e-validacao/backlog.md'
@@ -30,10 +31,11 @@ pages:
         - Introspecção: 'verificacao-e-validacao/introspeccao.md'
         - Questionário: 'verificacao-e-validacao/questionario.md'
         - Storytelling: 'verificacao-e-validacao/story.md.md'
-  - Pós-Rastreabilidade: 
-        - Forward-From: 'pos-rastreabilidade/forward.md'
-        - Backward-From: 'pos-rastreabilidade/backward.md'        
+  - Pós-rastreabilidade:
+    - Forward-from: 'pos-rastreabilidade/forward.md'
+    - Backward-from: 'pos-rastreabilidade/backward.md'
   - Apresentações: 'apresentacoes/apresentacoes.md'
+  - Aplicação: 'App.md'
 extra_css: 
   - assets/css/extra.css
 theme:
