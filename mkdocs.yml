@@ -34,8 +34,8 @@ pages:
   - Pós-rastreabilidade:
     - Forward-from: 'pos-rastreabilidade/forward.md'
     - Backward-from: 'pos-rastreabilidade/backward.md'
-  - Apresentações: 'apresentacoes/apresentacoes.md'
   - Aplicação: 'App.md'
+  - Apresentações: 'apresentacoes/apresentacoes.md'
 extra_css: 
   - assets/css/extra.css
 theme:
