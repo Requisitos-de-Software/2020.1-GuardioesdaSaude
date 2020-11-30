@@ -19,6 +19,11 @@ Visão inicial do fluxo principal do sistema </p>
 <p align="center">
 Visão melhorada após feedback do professor. Foi utilizado: - Atores, Operações, Repositórios de dados Setas, e Fronteira do sistema.  </p>
 
+## **Versão 0.3** .
+![Rich-picture](https://i.imgur.com/ArkS9jv.png)
+<p align="center">
+Visão melhorada após feedback de um dos desenvolvedores do sistema,conversa registrada no documento de [Validação](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/verificacao-e-validacao/validacao/validacaoinf/), foram adicionado novos usuários que possuem outros tipos de permissões dentro do sistema dentre eles acesso ao Database. </p>
+
 
 
 ## **Histórico de revisões**
@@ -26,6 +31,7 @@ Autor | Versão | Data(dd/mm/aaa) | Descrição
 ---- | ----------- | ------ | ---------
 [Lucas Lopes Xavier](https://github.com/lucaslop) | 0.1 | 06/09/2020 | Adicioando primeira versão do Rich Picture
 [Lucas Lopes Xavier](https://github.com/lucaslop) | 0.2 | 27/09/2020 | Adicionado segunda versão do Rich Picture
+[Thiago Luiz de Souza Gomes]() | 0.3 | 30/11/2020 | Adicionado terceira versão do Rich Picture
 
 
 ## **Referências**
