@@ -22,7 +22,7 @@ Visão melhorada após feedback do professor. Foi utilizado: - Atores, Operaçõ
 ## **Versão 0.3** .
 ![Rich-picture](https://i.imgur.com/ArkS9jv.png)
 <p align="center">
-Visão melhorada após feedback de um dos desenvolvedores do sistema,conversa registrada no documento de [Validação](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/verificacao-e-validacao/validacao/validacaoinf/), foram adicionado novos usuários que possuem outros tipos de permissões dentro do sistema dentre eles acesso ao Database. </p>
+Visão melhorada após feedback de um dos desenvolvedores do sistema,conversa registrada no documento de [Validação](/verificacao-e-validacao/validacao/validacaoinf/), foram adicionado novos usuários que possuem outros tipos de permissões dentro do sistema dentre eles acesso ao Database. </p>
 
 
 
